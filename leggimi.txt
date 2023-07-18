@@ -1,0 +1,3 @@
+Ciao Giova, 
+ho inserito un infinite scroll nel progetto per provarre a farlo, se tu volessi vedere anche il footer(che non si vedrà perchè ho messo l'infinite) commenta la sezione javascript dello scroll!
+Buona giornata
